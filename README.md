@@ -39,7 +39,11 @@
   ### [Задание](https://kodaktor.ru/g/08112019)  
   ### [Исходный код](https://github.com/vitarunaeva/mongodb-intro)
   
+## 9. SCORM
+  ### [Задание](https://kodaktor.ru/g/scorm)  
+  ### [Ссылка на Moodle](https://runaeva.moodlecloud.com/)
   
+  runaevavioletta@gmail.com   runaevaadmin
   
   
   
