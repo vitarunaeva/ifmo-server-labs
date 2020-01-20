@@ -16,9 +16,9 @@
   ### [Задание](https://kodaktor.ru/effector_intro)  Рефакторинг скриптовой части читалки kodaktor.ru/g/book с использованием effector
   ### [Исходный код](https://github.com/vitarunaeva/effector)
   
-## 4. ПЕРЕДЕЛАТЬ!!!! Blogger с аутентификацией для удаления и редактирования постов
+## 4. Blogger с аутентификацией для удаления и редактирования постов
   ### [Задание](https://kodaktor.ru/blogger_task)  
-  ### [Исходный код](https://github.com/vitarunaeva/blogger)
+  ### [Исходный код](https://github.com/vitarunaeva/blog)
   
   
 ## 5. public_secret
